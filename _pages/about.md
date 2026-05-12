@@ -16,4 +16,4 @@ Feel free to contact me, by dropping an email to
 
 `marconatoemanuele [AT] gmail [DOT] com`
 
-Cheers [;)]({{ site.baseurl }}/random/)
+[---]({{ "/random/" | relative_url }})
