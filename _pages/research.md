@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-This page highlights publications from my Google Scholar profile. 
+This page highlights publications from my Google Scholar profile.
 
 **Tags:** `identifiability`, `symbols`, `concepts`, `representations`, `linear properties`, `disentanglement`, `uncertainty`, `continual`
 
