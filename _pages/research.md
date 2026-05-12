@@ -62,5 +62,5 @@ This page highlights publications from my Google Scholar profile.
 
 For the full list of my publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=H0gXWAgAAAAJ&hl=it).
 
-[---](/random/)
+[---]({{ site.baseurl }}/random/)
 

@@ -33,7 +33,7 @@ Welcome to the hidden page of this website. I collect here random material that 
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; margin: 3rem 0;">
   <div>
-    <img src="/assets/images/tool.jpg" alt="trees" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/assets/images/tool.jpg" alt="tool" style="width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="padding: 0 2rem;">
     <blockquote style="font-size: 1.2em; line-height: 1.6; font-style: italic; border-left: 4px solid #999; padding-left: 1.5rem;">
