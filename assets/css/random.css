@@ -1,0 +1,7 @@
+.page-random {
+  background: url('/assets/images/vildhjarta.jpg') center/cover no-repeat fixed;
+}
+
+.page-random .page-wrapper {
+  background: transparent;
+}
