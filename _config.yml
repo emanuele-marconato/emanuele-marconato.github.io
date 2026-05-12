@@ -21,6 +21,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: true
+url: "https://ema-marconato-2.github.io"
+baseurl: "/emanuele.marconato.github.io"
 
 # Build settings
 markdown: kramdown
